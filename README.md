@@ -1,5 +1,5 @@
 
-# Arduino Relay Control with Bluetooth and Switch
+# lightbringer: Arduino Relay Control with Bluetooth and Switch
 
 This project demonstrates how to control a relay using an Arduino, with inputs from both a physical switch and a Bluetooth module. The relay state can be toggled based on inputs received from either the switch or the Bluetooth module.
 
